@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding-top: 30px;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#selected {
+  margin-bottom: 20px;
+}
+
+#carta {
+  display: flex;
+}
+
+input.expire {
+  margin: 0 5px 10px;
+  width: 50px;
+  display: inline-block;
+}
+
+.little {
+  font-size: .8rem;
+}
